@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KiritiReddy3
+- 👋 Hi, I’m @KiritiReddy
 - 👀 I’m interested in performing ml models
 - 🌱 I’m currently learning to use copilot 
 - 💞️ I’m looking to collaborate on time series forecasting
